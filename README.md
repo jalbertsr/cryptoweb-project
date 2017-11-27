@@ -1,9 +1,5 @@
-# cryptoweb-project
+# esade-workshop
 Webpage with information about crypto currencies's prices in real time.
 [CoinMarketCap api](https://coinmarketcap.com/api/)
-Data visualitzation with C3.js and D3. 
 
-**Site still under construction.**
-
-Screenshots: 
 
